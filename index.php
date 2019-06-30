@@ -18,6 +18,7 @@
     border: 1px solid;
   }
   a{color: black; text-decoration: none;}
+  a:hover{color: navy; text-decoration: underline;}
   </style>
  </head>
  <body background="back.png">
